@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Repo for data science assignment
+Repo for Data Scienctist Toobox course assignment
